@@ -1,2 +1,2 @@
-# Data analysis of decomposition of celulose
+# Analysis of decomposition of celulose
 Testing repo
